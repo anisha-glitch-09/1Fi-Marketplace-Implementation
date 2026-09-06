@@ -1,0 +1,15 @@
+1. From the root:
+
+git init
+git add .
+git commit -m "feat: implement 1Fi marketplace"
+
+2. Create GitHub repository:
+
+1fi-marketplace
+
+3. Then go for this:
+
+git branch -M main
+git remote add origin YOUR_GITHUB_REPOSITORY
+git push -u origin main
