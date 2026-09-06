@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
 
 import '../theme/app_colors.dart';
+const MarketplaceBanner(),
 
+const SizedBox(height: 18),
+
+Container(
+  ...
+)
 class MarketplaceBanner extends StatelessWidget {
   const MarketplaceBanner({
     super.key,
