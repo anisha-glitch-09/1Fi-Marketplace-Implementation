@@ -31,3 +31,11 @@ cd flutter_app
 
 ## Step-7 After Updating pubspsc.yaml file
 flutter pub get
+
+## Step-8 Important
+If you run Flutter on a physical Android phone, replace:
+10.0.2.2
+with your computer's local IP:
+192.168.1.your three-digit local IP
+
+## Step -9
