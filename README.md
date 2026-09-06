@@ -1,8 +1,6 @@
 # 1Fi-Marketplace-Implementation
 Assignment Provided by 1Fi for Implementation Of Marketplace
 
-# 1Fi Marketplace
-
 A Flutter-based implementation of the 1Fi Marketplace feature.
 
 ## Objective
