@@ -28,3 +28,6 @@ http://localhost:5000/api/products
 
 ## Step-6
 cd flutter_app
+
+## Step-7 After Updating pubspsc.yaml file
+flutter pub get
