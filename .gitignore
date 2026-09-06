@@ -1,0 +1,21 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+build/
+
+# Android
+.gradle/
+.idea/
+*.iml
+
+# Backend
+node_modules/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
