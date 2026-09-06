@@ -1,0 +1,20 @@
+## Step-8 
+Android internet permission
+Open this:
+android/app/src/main/AndroidManifest.xml
+Add this code:
+<uses-permission android:name="android.permission.INTERNET"/>
+
+If this is local HTTP development, we can also ensure the app permits cleartext traffic.
+
+Go Inside <application> and use this:
+android:usesCleartextTraffic="true"
+
+## The Main XML Code
+<application
+    android:label="1Fi Marketplace"
+    android:name="${applicationName}"
+    android:icon="@mipmap/ic_launcher"
+    android:usesCleartextTraffic="true">
+
+Important part if this is for HTTPS use we will use this for production, use HTTPS instead.
